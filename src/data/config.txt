@@ -1,0 +1,6 @@
+[psql database]
+host = “localhost”
+db_name  = “nfldata”
+user = “”
+password = “”
+port = “5432”
